@@ -1,5 +1,7 @@
 # A twitter bot to post updates when a new track is added to my soundcloud playlist
 
+# Project currently on hold while SoundCloud updates it's API request system
+
 ## To run:
 Clone repo.
 
