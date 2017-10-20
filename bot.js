@@ -13,7 +13,7 @@ setInterval(() => {
 
 function generateNewTweet() {
     return {
-        status: `#OpenRhythmNetwork ${Math.floor(Math.random() * 100)}`
+        status: `#HashTag ${Math.floor(Math.random() * 100)}`
     };
 }
 
